@@ -1,0 +1,18 @@
+.list label {
+    font-family: 'Montserrat', 'sans-serift';
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.list select {
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+    border: none;
+    padding: 20px 20px;
+    outline-color: #6278f7;
+    font-size: 16px;
+    border-radius: 10px;
+}
